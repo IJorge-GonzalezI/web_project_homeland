@@ -1,0 +1,19 @@
+.lead {
+  display: flex;
+  margin: auto;
+  max-width: 984px;
+  max-height: 983px;
+  flex-direction: column;
+  align-items: center;
+}
+
+.lead__title {
+  max-width: 720px;
+  max-height: 200px;
+  margin-top: 75px;
+  margin-bottom: 20px;
+  font-size: 96px;
+  font-weight: 900;
+  line-height: 100px;
+  text-align: center;
+}
