@@ -31,3 +31,47 @@
   width: 100%;
   margin-bottom: 80px;
 }
+
+@media screen and (max-width: 768px) {
+  .lead__title {
+    max-width: 530px;
+    font-size: 75px;
+    line-height: 79px;
+    margin-bottom: 12px;
+  }
+
+  .lead__subtitle {
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 36px;
+    margin-bottom: 33px;
+  }
+
+  .lead__image {
+    max-width: 768px;
+    max-height: 480px;
+    margin-bottom: 65px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .lead__title {
+    max-width: 288px;
+    font-size: 40px;
+    line-height: 44px;
+    margin-bottom: 10px;
+  }
+
+  .lead__subtitle {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    margin-bottom: 30px;
+  }
+
+  .lead__image {
+    max-width: 320px;
+    max-height: 200px;
+    margin-bottom: 50px;
+  }
+}
