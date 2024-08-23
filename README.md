@@ -24,6 +24,16 @@ Funcionalidad del Código CSS:
 
 3 .-Contiene código para hacer el diseño web respondivo a 768px y 320px.
 
+4 .-Contiene código para hacer uso de Grid Layout.
+
+5 .-Contiene código para hacer uso de sombreados.
+
+6 .-Contiene código para hacer uso de Gradientes Lineales.
+
+7 .-Contiene código para hacer uso de Gradientes Radiales.
+
+7 .-Contiene código hover para darle un mejor estilo cuando el usuario pase el cursor en la imágen y botón, así como darle un cambio de diseño al cursor.
+
 Tecnologías Utilizadas:
 
 1.-HTML5:
@@ -49,6 +59,18 @@ Tecnologías Utilizadas:
 6.-SVG:
 
     El logotipo del sitio está en formato SVG, lo cual es útil para gráficos escalables y de alta calidad.
+
+7.-Grid Layout:
+
+    Se usa un grid Layout para darle mejor estructura al bloque que contiene ocho imágenes.
+
+7.-Sombreado:
+
+    Se usa sombreado para darle mejor calidad visual a las imágenes usadas en places.
+
+7.-Gradientes lineales y radiales:
+
+    Se usan gradientes dentro del boton para darle mejor calidad visual.
 
 Mejora de la estructura y semántica:
 
