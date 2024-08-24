@@ -81,6 +81,7 @@
   box-shadow: 5px 5px 10px #00000040;
   color: #fff;
   margin-top: 35px;
+  border: none;
 }
 
 .places__place-button:hover {
